@@ -3,7 +3,6 @@ import {colors, size, fontSize} from "../variables";
 import MEDIA from "../mediaTemplates";
 
 const Hero = styled.section`
-  padding-left: 5rem;
   padding-right: 5rem;
   padding-top: 36px;
   margin: auto;
